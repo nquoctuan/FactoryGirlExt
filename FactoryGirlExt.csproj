@@ -57,7 +57,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DbRepository.cs" />
     <Compile Include="FactoryGirl.cs" />
     <Compile Include="Helpers\DapperHelpers.cs" />
     <Compile Include="Helpers\DuplicateFactoryException.cs" />
