@@ -6,7 +6,6 @@ using System.Linq;
 using Dapper;
 using Dapper.Contrib.Extensions;
 using FactoryGirlExt.Helpers;
-using sg.com.titansoft.TiDALBase.Entity;
 
 namespace FactoryGirlExt
 {
